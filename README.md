@@ -1,3 +1,13 @@
+# React Meetup Note
+
+[CodeMirror](http://codemirror.io/paulhklam1122/weather-app-meetup)
+
+[Material UI](https://material-ui-next.com/)
+
+[WeatherAPI](https://openweathermap.org/)
+
+[WeatherAPI JSON Sample](http://samples.openweathermap.org/data/2.5/weather?q=London,uk&appid=b6907d289e10d714a6e88b30761fae22)
+
 # Create React App [![Build Status](https://travis-ci.org/facebook/create-react-app.svg?branch=master)](https://travis-ci.org/facebook/create-react-app)
 
 Create React apps with no build configuration.
